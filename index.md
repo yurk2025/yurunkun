@@ -20,6 +20,7 @@ My research focuses on **Data Science and Management**, **Green Finance**, and *
 - [2025] Won the First Prize in the National College Student Mathematics Competition (Autumn Session, Non-Mathematics Group).
 - [2025] Awarded Excellent Paper (Second Prize) at the Jiangsu Graduate Green Economy & "Dual Carbon" Management Innovation Forum.
 - [2025] Awarded Excellent Paper (Third Prize) at the Tianjin University Business Management Doctoral Forum.
+- Third Prize at the 17th Graduate Student Academic Exchange Conference of Jimei University
 
 
 {% include_relative _includes/publications.md %}
