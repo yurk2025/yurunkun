@@ -21,13 +21,18 @@
 </li>
 <br>
 
-<!-- 第2篇：IEEE Access -->
+<!-- 第2篇：IEEE Access (修复遮挡问题) -->
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+<!-- 关键修改：在 style 中添加了 display: flex; 强制横向排列 -->
+<div class="pub-row" style="display: flex; align-items: flex-start;">
+  
+  <!-- 左侧：调整了最小宽度，防止标签换行 -->
+  <div class="col-sm-3 abbr" style="padding-right: 15px; padding-left: 15px; min-width: 120px;">
     <abbr class="badge">IEEE Access</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+
+  <!-- 右侧：文字部分 -->
+  <div class="col-sm-9" style="padding-right: 15px; padding-left: 20px; flex: 1;">
       <div class="title"><a href="https://ieeexplore.ieee.org/document/10131111" target="_blank">Synchronous Development Strategy of China's New Four Modernizations: An Analysis Based on Interactive Mode</a></div>
       <div class="author">Yang Li, Kunlin Zhu, <strong>Runkun Yu</strong>, Xianghui Li, Brian Teo Sheng Xian</div>
       <div class="periodical"><em>IEEE Access, 2023, 11: 53344-53358</em></div>
@@ -35,6 +40,7 @@
       <a href="https://ieeexplore.ieee.org/document/10131111" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
+
 </div>
 </li>
 <br>
