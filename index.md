@@ -3,20 +3,24 @@ layout: homepage
 ---
 
 ## About Me
+I am currently a Ph.D. student in **Management Science and Engineering** at the **China University of Petroleum (East China)** (2024 - Present). Additionally, I hold the position of **Special Researcher** at the **School of Economics and Management, Chang'an University**.
 
-I am a Ph.D. student at ...
+I obtained my Master's degree from **Southwestern University of Finance and Economics** (2018 - 2021) and my Bachelor's degree from **Fujian Agriculture and Forestry University** (2013 - 2017). I am also a certified Intermediate Economist.
+
+My research focuses on **Data Science and Management**, **Green Finance**, and **Big Data Decision Paradigms**. I have been recognized with several academic awards, including the First Prize in the National College Student Mathematics Competition (2025).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
+- **Data Science and Management**
+- **Modeling of Multi-source Heterogeneous Integrated Contribution and Benefit Systems**
+- **Big Data Management Decision Paradigm**
+- **Green Finance**
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- [2025] Won the First Prize in the National College Student Mathematics Competition (Autumn Session, Non-Mathematics Group).
+- [2025] Awarded Excellent Paper (Second Prize) at the Jiangsu Graduate Green Economy & "Dual Carbon" Management Innovation Forum.
+- [2025] Awarded Excellent Paper (Third Prize) at the Tianjin University Business Management Doctoral Forum.
+
 
 {% include_relative _includes/publications.md %}
 
