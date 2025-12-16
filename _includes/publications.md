@@ -24,11 +24,11 @@
 <!-- 第2篇：IEEE Access -->
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 40px;">
     <abbr class="badge">IEEE Access</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Synchronous Development Strategy of China's New Four Modernizations: An Analysis Based on Interactive Mode</a></div>
+      <div class="title">Synchronous Development Strategy of China's New Four Modernizations: An Analysis Based on Interactive Mode</div>
       <div class="author">Yang Li, Kunlin Zhu, <strong>Runkun Yu</strong>, Xianghui Li, Brian Teo Sheng Xian</div>
       <div class="periodical"><em>IEEE Access, 2023, 11: 53344-53358</em></div>
     <div class="links">
