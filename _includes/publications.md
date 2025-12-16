@@ -1,47 +1,57 @@
-- title: "跨国企业绩效评价：投资组合理论与实物期权理论的对比及实证研究"
-  authors: "<strong>余润堃</strong>, 梁骅, 梁嵘"
-  conference_short: "中国经贸导刊"
-  conference: "中国经贸导刊, 2024(12)"
-  pdf: "#"
-  bibtex: "#"
-  image: ""
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
-- title: "Synchronous Development Strategy of China's New Four Modernizations: An Analysis Based on Interactive Mode"
-  authors: "Yang Li, Kunlin Zhu, <strong>Runkun Yu</strong>, Xianghui Li, Brian Teo Sheng Xian"
-  conference_short: "IEEE Access"
-  conference: "IEEE Access, 2023, 11: 53344-53358"
-  pdf: "https://ieeexplore.ieee.org/document/10131111"
-  bibtex: "#"
-  image: ""
+<div class="publications">
+<ol class="bibliography">
 
-- title: "金融租赁资产证券化价值评估方法探析"
-  authors: "<strong>余润堃</strong>"
-  conference_short: "中国农业会计"
-  conference: "中国农业会计, 2022(06): 78-80"
-  pdf: "#"
-  bibtex: "#"
-  image: ""
+{% for link in site.data.publications %}
 
-- title: "新预算法下加强高校财务管理的若干措施"
-  authors: "林可胜, <strong>余润堃</strong>, 孙思惟"
-  conference_short: "财务与会计"
-  conference: "财务与会计, 2016(01): 63-64"
-  pdf: "#"
-  bibtex: "#"
-  image: ""
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    {% if link.image %} 
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+    {% endif %}
+    {% if link.conference_short %} 
+    <abbr class="badge">{{ link.conference_short }}</abbr>
+    {% endif %}
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title">
+        {% if link.pdf and link.pdf != "#" %}
+        <a href="{{ link.pdf }}">{{ link.title }}</a>
+        {% else %}
+        {{ link.title }}
+        {% endif %}
+      </div>
+      <div class="author">{{ link.authors }}</div>
+      <div class="periodical"><em>{{ link.conference }}</em>
+      </div>
+    <div class="links">
+      {% if link.pdf and link.pdf != "#" %} 
+      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      {% endif %}
+      {% if link.code %} 
+      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      {% endif %}
+      {% if link.page %} 
+      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      {% endif %}
+      {% if link.bibtex and link.bibtex != "#" %} 
+      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      {% endif %}
+      {% if link.notes %} 
+      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+      {% endif %}
+      {% if link.others %} 
+      {{ link.others }}
+      {% endif %}
+    </div>
+  </div>
+</div>
+</li>
+<br>
 
-- title: "优化内部资源配置 助力提升高校绩效——基于F大学的管理会计实践"
-  authors: "林可胜, <strong>余润堃</strong>, 孙思惟"
-  conference_short: "商业会计"
-  conference: "商业会计, 2015(22): 52-53"
-  pdf: "#"
-  bibtex: "#"
-  image: ""
+{% endfor %}
 
-- title: "新一轮林改背景下福建省农户林地流转风险防范分析"
-  authors: "<strong>余润堃</strong>"
-  conference_short: "乡镇企业会计"
-  conference: "中国乡镇企业会计, 2015(04): 7-8"
-  pdf: "#"
-  bibtex: "#"
-  image: ""
+</ol>
+</div>
