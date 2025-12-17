@@ -21,7 +21,7 @@ My research focuses on **Data Science and Management**, **Green Finance**, and *
 - [2025] Awarded Excellent Paper (Second Prize) at the Jiangsu Graduate Green Economy & "Dual Carbon" Management Innovation Forum.
 - [2025] Awarded Excellent Paper (Third Prize) at the Tianjin University Business Management Doctoral Forum.
 - [2025] The 2nd National Graduate Summer School on Aquatic Organism and Aquatic Ecology at East China Normal University - "Relentless Pursuit" Scholarship (Category B)
-- Third Prize at the 17th Graduate Student Academic Exchange Conference of Jimei University
+- [2025] Third Prize at the 17th Graduate Student Academic Exchange Conference of Jimei University
 
 
 {% include_relative _includes/publications.md %}
