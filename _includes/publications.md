@@ -11,7 +11,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">跨国企业绩效评价：投资组合理论与实物期权理论的对比及实证研究</div>
-      <div class="author"><strong>余润堃</strong>, 梁骅, 梁嵘</div>
+      <div class="author"><strong>余润堃</strong>, 梁烨, 梁嵘</div>
       <div class="periodical"><em>中国经贸导刊, 2024(12)</em></div>
     <div class="links">
       <!-- 暂无PDF链接，如以后有可填入 href="" -->
